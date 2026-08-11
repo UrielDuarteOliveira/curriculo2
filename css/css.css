@@ -63,11 +63,11 @@ header{
     min-width: 100px;
 }
 .menu a:link{
-    color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 .menu a:visited{
-    color: rgb(100, 100, 100);
+    color: #f27609;
     text-decoration: none;
 }
 .menu a:active{
@@ -130,6 +130,7 @@ footer .container{
     padding-top: 15px;
     font-size: 18px;
     max-width: 300px; 
+    text-align: justify;
 
 }
 .index2 {
